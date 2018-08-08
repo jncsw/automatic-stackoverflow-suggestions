@@ -1,0 +1,70 @@
+constructor ,Repositories 7K Code Commits 6M Issues 684K Marketplace Topics 17 Wikis 89K Users 95
+getDerivedStateFromProps ,Repositories 3 Code Commits 667 Issues 2K Marketplace Topics Wikis 12 Users
+render ,Repositories 30K Code Commits 8M Issues 1M Marketplace Topics 245 Wikis 103K Users 473
+componentDidMount ,Repositories 12 Code Commits 11K Issues 17K Marketplace Topics 1 Wikis 841 Users 1
+getDerivedStateFromProps ,Repositories 3 Code Commits Issues 2K Marketplace Topics Wikis 12 Users
+shouldComponentUpdate ,Repositories 36 Code Commits Issues Marketplace Topics Wikis Users
+render ,Repositories 30K Code Commits Issues 1M Marketplace Topics 245 Wikis 103K Users 473
+getSnapshotBeforeUpdate ,Repositories 1 Code Commits Issues Marketplace Topics Wikis Users
+componentDidUpdate ,Repositories 2 Code Commits Issues Marketplace Topics Wikis Users
+componentWillUnmount ,Repositories 5 Code Commits Issues Marketplace Topics Wikis Users
+componentDidCatch ,Repositories 5 Code Commits Issues Marketplace Topics Wikis Users
+setState ,Repositories 97 Code Commits Issues Marketplace Topics Wikis Users
+forceUpdate ,Repositories 14 Code Commits 35K Issues 3K Marketplace Topics Wikis 142 Users 2
+defaultProps ,Repositories 10 Code Commits 6K Issues 6K Marketplace Topics Wikis 276 Users
+displayName ,Repositories 77 Code Commits 73K Issues 35K Marketplace Topics 1 Wikis 4K Users
+props ,Repositories 4K Code Commits Issues Marketplace Topics Wikis Users
+state ,Repositories 51K Code Commits Issues Marketplace Topics Wikis Users
+PureComponent ,Repositories 38 Code Commits Issues Marketplace Topics Wikis Users
+createElement ,Repositories 282 Code Commits Issues Marketplace Topics Wikis Users
+createFactory ,Repositories 2 Code Commits Issues Marketplace Topics Wikis Users
+ cloneElement ,Repositories 3 Code Commits 2K Issues 2K Marketplace Topics 1 Wikis 39 Users 
+isValidElement ,Repositories Code Commits 238 Issues 336 Marketplace Topics Wikis 9 Users 
+Children ,Repositories 7K Code Commits 6M Issues 246K Marketplace Topics 17 Wikis 35K Users 1K 
+Fragment ,Repositories 18K Code Commits Issues Marketplace Topics Wikis Users 
+createRef ,Repositories 5 Code Commits Issues Marketplace Topics Wikis Users 
+forwardRef ,Repositories 4 Code Commits Issues Marketplace Topics Wikis Users 
+render ,Repositories 30K Code Commits Issues Marketplace Topics Wikis Users 
+hydrate ,Repositories 499 Code Commits Issues Marketplace Topics Wikis Users 
+unmountComponentAtNode ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+findDOMNode ,Repositories 2 Code Commits Issues Marketplace Topics Wikis Users 
+createPortal ,Repositories 3 Code Commits Issues Marketplace Topics Wikis Users 
+renderToString ,Repositories 12 Code Commits 2K Issues 2K Marketplace Topics 1 Wikis 130 Users 
+renderToStaticMarkup ,Repositories 1 Code Commits 631 Issues 743 Marketplace Topics 1 Wikis 70 Users 
+renderToNodeStream ,Repositories 1 Code Commits 95 Issues 236 Marketplace Topics Wikis 6 Users 
+renderToStaticNodeStream ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+Simulate ,Repositories 22K Code Commits Issues Marketplace Topics Wikis Users 
+renderIntoDocument ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+mockComponent ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+isElement ,Repositories 13 Code Commits Issues Marketplace Topics Wikis Users 
+isElementOfType ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+isDOMComponent ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+isCompositeComponent ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+isCompositeComponentWithType ,Repositories Code Commits 56 Issues 10 Marketplace Topics Wikis 1 Users 
+findAllInRenderedTree ,Repositories Code Commits 263 Issues 58 Marketplace Topics Wikis 1 Users 
+scryRenderedDOMComponentsWithClass ,Repositories Code Commits 294 Issues 62 Marketplace Topics Wikis 6 Users 
+findRenderedDOMComponentWithClass ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+scryRenderedDOMComponentsWithTag ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+findRenderedDOMComponentWithTag ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+scryRenderedComponentsWithType ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+findRenderedComponentWithType ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+shallowRenderer.render ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+shallowRenderer.getRenderOutput ,Repositories 1 Code Commits Issues Marketplace Topics Wikis Users 
+TestRenderer.create ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testRenderer.toJSON ,Repositories Code Commits 50 Issues 1 Marketplace Topics Wikis 1 Users 
+testRenderer.toTree ,Repositories Code Commits 47 Issues 2 Marketplace Topics Wikis 1 Users 
+testRenderer.update ,Repositories Code Commits 127 Issues 1 Marketplace Topics Wikis 1 Users 
+testRenderer.unmount ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testRenderer.getInstance ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testRenderer.root ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testInstance.find ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testInstance.findByType ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testInstance.findByProps ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testInstance.findAll ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testInstance.findAllByType ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testInstance.findAllByProps ,Repositories Code Commits Issues Marketplace Topics Wikis 1 Users 
+testInstance.instance ,Repositories 7 Code Commits 314 Issues Marketplace Topics Wikis 1 Users 
+testInstance.type ,Repositories Code Commits Issues Marketplace Topics Wikis 1 Users 
+testInstance.props ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testInstance.parent ,Repositories Code Commits Issues Marketplace Topics Wikis Users 
+testInstance.children,Repositories Code Commits Issues Marketplace Topics Wikis Users 
